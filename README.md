@@ -18,8 +18,8 @@ Acesse o guia completo: [alura.tv/guiademergulhodevops](https://alura.tv/guiadem
 ### 📸 Exemplo Visual do Projeto
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/584d9aee-57bb-4d24-b948-056467ff4e68" alt="Screenshot 2025-07-03 132707" width="350" style="margin: 8px; border-radius: 8px;">
-  <img src="https://github.com/user-attachments/assets/ed764f6c-c4e5-45d0-9efc-b92dce5bd036" alt="Screenshot 2025-07-03 130932" width="350" style="margin: 8px; border-radius: 8px;">
+  <img src="https://github.com/user-attachments/assets/584d9aee-57bb-4d24-b948-056467ff4e68" alt="Screenshot 2025-07-03 132707" width="80%" style="margin: 16px 0; border-radius: 10px;">
+  <img src="https://github.com/user-attachments/assets/ed764f6c-c4e5-45d0-9efc-b92dce5bd036" alt="Screenshot 2025-07-03 130932" width="80%" style="margin: 16px 0; border-radius: 10px;">
 </div>
 
 > A API expõe endpoints documentados via Swagger em `/docs` após inicialização local ou em nuvem.
