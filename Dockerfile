@@ -16,4 +16,4 @@ EXPOSE 8000
 
 # Comando para rodar a aplicação usando uvicorn
 # O host 0.0.0.0 permite que a aplicação seja acessível externamente ao contêiner
-CMD ["uvicorn", "app:app", "--host", "0.0.0.0", "--port", "8000",  "--reload"]
+CMD ["uvicorn", "app:app", "--host", "0.0.0.0", "--port", "8080",  "--reload"]
